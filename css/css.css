@@ -10,12 +10,10 @@
 	padding: 0;
 	scroll-behavior: smooth;
 }
-
 body {
 	font-family: 'Open Sans', sans-serif;
 	line-height: 1.5;
 }
-
 
 a {
 	text-decoration: none;
@@ -269,5 +267,4 @@ footer{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	
 }
